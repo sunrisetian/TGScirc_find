@@ -10,10 +10,10 @@
 - RNA_seq data (fastq format)
 ### Software:
 
-- blast
+- blast(v.2.6.0+)
 - blat
-- gamp
-- minimap2
+- gamp(v.2015-09-21)
+- minimap2(v2.1)
 - Python3 (v.3.7.7): (https://www.python.org/)
 
 ### Python3 package:
